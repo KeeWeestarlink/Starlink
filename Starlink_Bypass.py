@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 
 #ဒီနေရာမှာchangeပေးပါbro
 BOT_TOKEN = '8880582165:AAGntcTlCmuy3Tlw8tsuQ1r6XW-lFhPZZC4'
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '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'
 REPO_OWNER = "keeweestarlink"
 REPO_NAME = "Starlink"
 ADMIN_ID = "6433822164"
